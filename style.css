@@ -1,0 +1,21 @@
+body {
+background-color: blue;
+    text-align:center;
+margin: 100px; 
+}
+#app {
+    background-color: yellow;
+    padding: 80px;
+    margin: 80px;
+        
+}#game {
+    background-color: lawngreen;
+    padding: 80px;
+margin: 80px;       
+
+}#chatbot {
+    background-color: crimson;
+    padding: 80px ; margin: 80px;
+    
+        
+}
